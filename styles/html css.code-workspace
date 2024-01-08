@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../html css"
+		},
+		{
+			"path": "../../구름 풀스택/html과 css"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix"
+	}
+}
